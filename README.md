@@ -10,7 +10,7 @@ during today's bootcamp. Our CorDapp will allow the issuance of tokens onto the 
 We'll develop the CorDapp using a test-driven approach. At each stage, you'll know your 
 CorDapp is working once it passes both sets of tests defined in `src/test/java/bootcamp`.
 
-## Set up 
+## Set up
 
 1. Download and install a JDK 8 JVM (minimum supported version 8u131)
 2. Download and install IntelliJ Community Edition (supported versions 2017.x and 2018.x)
